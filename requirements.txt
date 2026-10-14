@@ -1,0 +1,11 @@
+torch
+unsloth
+transformers
+datasets
+trl
+fastapi
+uvicorn
+pydantic
+streamlit
+pandas
+requests
